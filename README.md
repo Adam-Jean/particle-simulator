@@ -21,7 +21,8 @@ Velocity and gravitational forces are calculated with [Newton's law of universal
 ### Prerequisites
 
 * Python 3
-* Pygame
+* pygame
+* scypi
 
 
 ## 🎮 How to Use
